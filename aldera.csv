@@ -1,4 +1,4 @@
-Number,Date Sold,City,Type of Land,Block,Land ID,Area (m2),Price (kd),lat/long,1-Street (Y/N), Back and Front Streets? (0/1),Corner (0/1)
+Number,Date Sold,City,Type of Land,Block,Land ID,Area (m2),Price (kd),lat/long,1-Street (Y/N), Back and Front Streets? (0/1),Corner (0/1),Island (0/1),Alley (0/1),Next to Electricity Generator (0/1),Next to a yard (0/1),width,length,Front Yard Area (m2),back Yard Area (m2),Right Yard,Left Yard,Sea Side,Built (0/1),No. Floors,Basement (0/1),Year Built,Restoration DateRestoration Date,ruinous,Rented,Number Of Unit,Income
 1,10/08/2011,Funtaitees
 2,09/13/2011,Funtaitees
 3,09/14/2011,Almansouriya
