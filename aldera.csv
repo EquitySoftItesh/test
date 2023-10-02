@@ -1,6 +1,10 @@
-Number,City,Type of Land,Block,Land ID,Area,Price,lat/long,1-Street (Y/N), Back and Front Streets? (0/1),Corner (0/1),Island (0/1),Alley (0/1),Next to Electricity Generator (0/1),Next to a yard (0/1),width,length,Front Yard Area (m2),back Yard Area (m2),Right Yard,Left Yard,Sea Side,Built (0/1),No. Floors,Basement (0/1),Year Built,Restoration Date,ruinous,Rented,Number Of Unit,Income
-1,Funtaitees,Residential,1,193,500,175000,29.229838 48.095395,1,0,0,0,0,0,0,20,25,4,0,0,0,0,0,0,0,1998,0,0,0,0,0
-2,Funtaitees,Residential,1,386,400,200000,29.227168 48.095032,0,1,0,0,0,0,0,16,25,10,4,0,0,0,0,0,0,2000,0,0,0,0,0
-3,Almansouriya,Residential,2,230,1500,1300000,29.354892 47.997266,0,0,1,0,1,0,1,30,50,12,3,5,12,0,0,0,0,2006,0,0,0,0,0
-4,Funtaitees,Residential,1,359,400,173000,29.228453 48.096277,1,0,0,0,1,0,0,16,25,4,0,0,3.9,0,0,0,0,2010,0,0,0,0,0
-5,Almesayel,Residential,5,232,400,180000,29.232177 48.085599,1,0,0,0,0,0,0,16,25,4,0,0,0,0,0,0,0,1999,0,0,0,0,0
+location,area,bath,bhk,backorfrontstreet,seaside,price
+Funtaitees,500,3,3,0,0,175000
+Almansouriya,500,3,3,0,0,175000
+Almesayel,500,3,3,0,0,175000
+Sabah Al-Ahmed Marine City,500,3,3,0,0,175000
+Abu Ftaira,500,3,3,0,0,175000
+Mishref,500,3,3,0,0,175000
+Alfintas,500,3,3,0,0,175000
+Salmiya,500,3,3,0,0,175000
+Dasma,500,3,3,0,0,175000
