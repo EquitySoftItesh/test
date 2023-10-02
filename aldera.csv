@@ -1,4 +1,4 @@
-Number,Date Sold,City
+Number,Date Sold,City,Type of Land,Block,Land ID,Area (m2),Price (kd),lat/long,1-Street (Y/N), Back and Front Streets? (0/1),Corner (0/1)
 1,10/08/2011,Funtaitees
 2,09/13/2011,Funtaitees
 3,09/14/2011,Almansouriya
