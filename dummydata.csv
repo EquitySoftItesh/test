@@ -1,0 +1,6 @@
+PropertyID,Location,NumBedrooms,NumBathrooms,SquareFeet,LotSize,YearBuilt,PropertyType,HasPool,HasGarage,NumFloors,NumRooms,OverallCondition,View,YearLastRemodeled,DistanceToSchool,DistanceToHospital,DistanceToWork,DistanceToPark,Price
+1,Suburban,4,3,2500,8000,1990,SingleFamily,Yes,Yes,2,8,7,Garden,2015,0.5,2.3,5.7,0.2,450000
+2,CityCenter,2,1,1200,3000,1950,Condo,No,No,1,4,6,City,2005,0.2,0.8,1.2,0.1,250000
+3,Rural,3,2,1800,10000,1975,SingleFamily,No,Yes,1,5,5,Mountain,2010,3.0,10.5,20.0,1.5,350000
+4,Suburban,5,4,3500,12000,2005,SingleFamily,Yes,Yes,2,10,9,Waterfront,2020,1.2,3.0,7.5,0.5,680000
+5,CityCenter,1,1,800,1000,1920,Condo,No,No,1,3,4,City,1998,0.1,0.5,0.8,0.2,180000
