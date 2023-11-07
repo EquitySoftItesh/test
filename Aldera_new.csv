@@ -1,0 +1,7 @@
+No,City,Location,Area (sq.m),Type,Price,Bedroom,Bathrooms,Furnished,Street Access,Total Yard Area (sq.m),Pool,Lift,Sea,Playground,School ,Hospital,Mosque,Mall,Indoor Pool,Outdoor Pool,Gym,Parking,Bank/Atm,Pharmacy,Restaurant,Supermarket,Laundry Room,Maid Room,Kitchen Furnished,Heating,Balcony,Jacuzzi,Solar Panels,Garden,Garage,Storage
+1,Abc,Pqr,450,Apartment,90000,2,1,1,1,0,1,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0
+2,Xyz,Wxz,900,Villa,140000,5,3,1,0,200,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,1,1,1,0
+3,Abc,Pqr,800,Apartment,130000,5,4,0,0,400,1,1,0,1,0,1,1,0,0,0,1,1,0,1,0,0,0,1,1,1,1,1,1,0,1,1
+4,Xyz,Wxz,1000,Villa,150000,7,6,1,0,100,0,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,0,1,1,0,1,1,1,0,1,1
+5,Abc,Pqr,350,Apartment,65000,3,2,0,0,350,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,1,0,1,1,0,0,1,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
