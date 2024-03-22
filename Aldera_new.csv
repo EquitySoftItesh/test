@@ -1,7 +1,21 @@
-No,City,Location,Area (sq.m),Type,Price,Bedroom,Bathrooms,Furnished,Street Access,Total Yard Area (sq.m),Pool,Lift,Sea,Playground,School ,Hospital,Mosque,Mall,Indoor Pool,Outdoor Pool,Gym,Parking,Bank/Atm,Pharmacy,Restaurant,Supermarket,Laundry Room,Maid Room,Kitchen Furnished,Heating,Balcony,Jacuzzi,Solar Panels,Garden,Garage,Storage
-1,Abc,Pqr,450,Apartment,90000,2,1,1,1,0,1,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0
-2,Xyz,Wxz,900,Villa,140000,5,3,1,0,200,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,1,1,1,0
-3,Abc,Pqr,800,Apartment,130000,5,4,0,0,400,1,1,0,1,0,1,1,0,0,0,1,1,0,1,0,0,0,1,1,1,1,1,1,0,1,1
-4,Xyz,Wxz,1000,Villa,150000,7,6,1,0,100,0,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,0,1,1,0,1,1,1,0,1,1
-5,Abc,Pqr,350,Apartment,65000,3,2,0,0,350,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,1,0,1,1,0,0,1,1
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+Date,City,Type of Land,Area ( m2),Price ( kd)
+2011/10/08,Funtaitees,Residential,500,175000
+2011/09/13,Funtaitees,Residential,400,200000
+2011/09/14,Almansouriya,Residential,1500,1300000
+2011/05/10,Funtaitees,Residential,400,173000
+2011/09/25,Almesayel,Residential,400,180000
+2011/09/23,Funtaitees,Residential,400,165000
+2011/03/11,Sabah Al-Ahmed Marine City,Residential,645,185000
+2011/03/11,Sabah Al-Ahmed Marine City,Residential,460,130000
+2011/10/18,Abu Ftaira,Residential,400,200000
+2011/03/11,Sabah Al-Ahmed Marine City,Residential,480,140000
+2011/11/15,Abu Ftaira,Residential,400,160000
+2011/11/15,Abu Ftaira,Residential,400,160000
+2011/11/15,Abu Ftaira,Residential,400,190000
+2011/11/15,Abu Ftaira,Residential,420,215000
+2011/09/10,Mubarak Al-Abdulah,Residential,412.5,265000
+2012/04/01,Abu Ftaira,Residential,416,215000
+2012/04/01,Abu Ftaira,Residential,416,215000
+2012/04/01,Abu Ftaira,Residential,416,215000
+2012/05/01,Abu Ftaira,Residential,416,215000
+2012/05/01,Abu Ftaira,Residential,400,220000
