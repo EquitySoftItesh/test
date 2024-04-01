@@ -13,7 +13,7 @@ Abu Ftaira,Residential,400,160000
 Abu Ftaira,Residential,400,160000
 Abu Ftaira,Residential,400,190000
 Abu Ftaira,Residential,420,215000
-Mubarak Al-Abdulah,Residential,412.5,265000
+Mubarak Al-Abdulah,Residential,4125,265000
 Abu Ftaira,Residential,416,215000
 Abu Ftaira,Residential,416,215000
 Abu Ftaira,Residential,416,215000
@@ -75,7 +75,7 @@ Sabah Al Ahmed Al Bahreya,Residential,506,194000
 Abu Ftaira,Residential,400,223000
 Sabah Al Ahmed Al Bahreya,Residential,526,198000
 Sabah Al Ahmed Al Bahreya,Residential,490,190000
-Zahra,Residential,379.5,325000
+Zahra,Residential,3795,325000
 Zahra,Residential,375,285000
 Sabah Al Ahmed Al Bahreya,Residential,450,200000
 AL-Masayel,Residential,500,260000
@@ -101,14 +101,14 @@ salwa,Residential,1000,1150000
 Sabah Al -Salem,investment lands,875,1050000
 Sabah Al -Salem,investment lands,875,1050000
 Zahra,Residential,375,305000
-Sabah Al -Salem,Residential,395.5,280000
+Sabah Al -Salem,Residential,3955,280000
 Sabah Al Ahmed Al Bahreya,Residential,450,210000
 Sabah Al Ahmed Al Bahreya,Residential,459,210000
 Funtaitees,Residential,400,235000
 Zahra,Residential,500,390000
 Zahra,Residential,375,360000
 Sabah Al Ahmed Al Bahreya,Residential,452,138000
-Zahra,Residential,379.5,325000
+Zahra,Residential,3795,325000
 Sabah Al Ahmed Al Bahreya,Residential,531,220000
 Sabah Al Ahmed Al Bahreya,Residential,506,220000
 Sabah Al Ahmed Al Bahreya,Residential,480,155000
@@ -120,7 +120,7 @@ Sabah Al Ahmed Al Bahreya,Residential,450,210000
 Zahra,Residential,385,360000
 Sabah Al Ahmed Al Bahreya,Residential,531,235000
 Sabah Al Ahmed Al Bahreya,Residential,505,212000
-AL-FINTAS,investment lands,200.19,200000
+AL-FINTAS,investment lands,20019,200000
 SALAM,Residential,500,500000
 Sabah Al Ahmed Al Bahreya,Residential,487,230000
 Abu Ftaira,Residential,400,235000
@@ -174,7 +174,7 @@ Al Khiran,Residential,400,123000
 Sabah Al Ahmed Al Bahreya,Residential,660,170000
 Sabah Al Ahmed Al Bahreya,Residential,710,172000
 Sabah Al Ahmed Al Bahreya,Residential,540,247000
-Shuwaikh Industrial,industrial land,987.5,840000
+Shuwaikh Industrial,industrial land,9875,840000
 Sabah Al Ahmed Al Bahreya,Residential,450,223000
 Funtaitees,Residential,400,248000
 Funtaitees,Residential,400,248000
@@ -196,7 +196,7 @@ AL-Masayel,Residential,400,405000
 AL-ADAN,Residential,400,410000
 DAIYA,Residential,400,490000
 Jabriya,Residential,400,285000
-Salmiya,investment lands,850.5,1394000
+Salmiya,investment lands,8505,1394000
 Funtaitees,Residential,375,320000
 QADSIYA,Residential,500,460000
 Zahra,Residential,600,492500
@@ -278,7 +278,7 @@ Sabah Al Ahmed Al Bahreya,Residential,450,"168,000"
 Dasma,Residential,325,"295,000"
 Sabah Al Ahmed Al Bahreya,Residential,465,115000
 al-ardiya6,industrial land,1000,"1,225,000"
-sabah Al Salem,investment lands,141.54,134000
+sabah Al Salem,investment lands,14154,134000
 Jaber Al-Ali,Residential,392,315000
 Fnaitees,Residential,400,215000
 Fnaitees,Residential,400,280000
@@ -310,12 +310,12 @@ Fnaitees,Residential,400,235000
 AL-Masayel,Residential,500,300000
 Al-Fintas,investment lands,207,170000
 AL-Masayel,Residential,500,280000
-Rumaithiya,Residential,"487,5",335000
+Rumaithiya,Residential,4875,335000
 Sabah Al Ahmed Al Bahreya,Residential,641,115000
 Fnaitees,Residential,400,248000
 Dasma,Residential,500,410000
 Fnaitees,Residential,375,280000
-Sabah Al Ahmed Al Bahreya,Residential,536.5,95000
+Sabah Al Ahmed Al Bahreya,Residential,5365,95000
 Salmiya,investment lands,2050,3630000
 Fnaitees,Residential,1500,1065000
 Mishrif,Residential,400,370000
@@ -340,7 +340,7 @@ Abu Ftaira,Residential,400,240000
 Fnaitees,Residential,375,289000
 AL-SIDDIQ,Residential,500,390000
 Sabah Al Ahmed Al Bahreya,Residential,1344,228480
-YARMOUK,Residential,497.5,650000
+YARMOUK,Residential,4975,650000
 DAIYA,Residential,500,405000
 QADSIYA,Residential,500,495000
 Fnaitees,Residential,400,260000
@@ -466,7 +466,7 @@ AL-SIDDIQ,Residential,400,600000
 Sabah Al Ahmed Al Bahreya,Residential,480,225000
 Sabah Al Ahmed Al Bahreya,Residential,459,215000
 Dasma,Residential,375,395000
-Sabah Al Ahmed Al Bahreya,Residential,636.5,135000
+Sabah Al Ahmed Al Bahreya,Residential,6365,135000
 Sabah Al Ahmed Al Bahreya,Residential,530,330000
 Sabah Al Ahmed Al Bahreya,Residential,450,213000
 Sabah Al Ahmed Al Bahreya,Residential,1012,340000
@@ -501,7 +501,7 @@ Shaab,Residential,400,485000
 Sabah Al Ahmed Al Bahreya,Residential,494,160000
 Sabah Al Ahmed Al Bahreya,Residential,576,160000
 Sabah Al Ahmed Al Bahreya,Residential,474,280000
-Sabah Al -Salem,investment lands,109.818,125000
+Sabah Al -Salem,investment lands,109818,125000
 Sabah Al Ahmed Al Bahreya,Residential,519,240000
 Sabah Al -Salem,Residential,395,360000
 Sabah Al Ahmed Al Bahreya,Residential,450,265000
@@ -532,13 +532,13 @@ Sabah Al Ahmed Al Bahreya,Residential,509,285000
 Sabah Al Ahmed Al Bahreya,Residential,523,210000
 BAYAN,Residential,375,560000
 KHIRAN CITY,Residential,400,
-JABER AL-AHMED,Residential,349.161,200000
+JABER AL-AHMED,Residential,349161,200000
 Sabah Al Ahmed Al Bahreya,Residential,525,210000
 Sabah Al Ahmed Al Bahreya,Residential,610,320000
 Sabah Al Ahmed Al Bahreya,Residential,465,285000
 Sabah Al Ahmed Al Bahreya,Residential,525,200000
 Jabriya,Residential,750,620000
-Sabah Al -Salem,Residential,499.2,400000
+Sabah Al -Salem,Residential,4992,400000
 Sabah Al Ahmed Al Bahreya,Residential,576,200000
 KHIRAN CITY,Residential,400,185000
 Sabah Al Ahmed Al Bahreya,Residential,450,320000
@@ -600,14 +600,14 @@ Sabah Al Ahmed Al Bahreya,Residential,610,335000
 SALWA,Residential,750,780000
 Sabah Al Ahmed Al Bahreya,Residential,450,290000
 Sabah Al Ahmed Al Bahreya,Residential,474,295000
-EGAILA,Residential,465.5,425000
-MAHBOULA,investment lands,110.05,100000
+EGAILA,Residential,4655,425000
+MAHBOULA,investment lands,11005,100000
 Sabah Al Ahmed Al Bahreya,Residential,465,290000
 Fnaitees,Residential,375,550000
 Sabah Al Ahmed Al Bahreya,Residential,497,310000
 Sabah Al Ahmed Al Bahreya,Residential,493,350000
 Fnaitees,Residential,375,564500
-Sabah Al -Salem,Residential,417.90,540000
+Sabah Al -Salem,Residential,41790,540000
 Sabah Al Ahmed Al Bahreya,Residential,481,205000
 Sabah Al Ahmed Al Bahreya,Residential,500,290000
 Abu Ftaira,Residential,400,380000
@@ -703,16 +703,16 @@ Sabah Al Ahmed Al Bahreya,Residential,590,300000
 Sabah Al Ahmed Al Bahreya,Residential,1500,630000
 FAIHA,Residential,500,680000
 Jabriya,Residential,375,650000
-SURRA,Residential,997.5,1650000
+SURRA,Residential,9975,1650000
 Salmiya,Residential,600,420000
 DAIYA,Residential,375,460000
 KIFAN,Residential,750,1050000
 BAYAN,Residential,300,405000
 JABER AL-AHMED,Residential,400,500000
 SAAD AL- ABDULLA CITY,Residential,400,430000
-SALAM,Residential,1000,1.500.000
-Nuzha,Residential,750,1.500.000
-Zahra,Residential,406.83,425000
+SALAM,Residential,1000,1500000
+Nuzha,Residential,750,1500000
+Zahra,Residential,40683,425000
 RIQQA,Residential,400,285000
 ANDALUS,Residential,500,350000
 KHAITAN,Residential,300,240000
@@ -729,20 +729,20 @@ QASR,Residential,600,360000
 AL-Masayel,Residential,375,655000
 AL-Masayel,Residential,400,390000
 ANDALUS,Residential,625,585000
-Sabah Al -Salem,Residential,300.13,300000
+Sabah Al -Salem,Residential,30013,300000
 Dasma,Residential,500,660000
 Hawalli,Investment building,715,2650000
 MAHBOULA,Investment building,510,900000
 SALMiya,Investment building,638,1100000
-Hawalli,Investment building,537.5,1700000
+Hawalli,Investment building,5375,1700000
 Sabah Al -Salem,Investment building,500,1020000
 Sabah Al Ahmed Al Bahreya,Residential,470,269000
 Sabah Al Ahmed Al Bahreya,Residential,529,270000
 Sabah Al Ahmed Al Bahreya,Residential,480,169000
 Sabah Al Ahmed Al Bahreya,Residential,1500,630000
 Sabah Al Ahmed Al Bahreya,Residential,1203,500000
-ANDALUS,Residential,606.5,530000
-ANDALUS,Residential,507.5,500000
+ANDALUS,Residential,6065,530000
+ANDALUS,Residential,5075,500000
 ANDALUS,Residential,500,360000
 ANDALUS,Residential,500,400000
 ANDALUS,Residential,400,445000
@@ -752,25 +752,25 @@ ANDALUS,Residential,500,420000
 ANDALUS,Residential,500,420000
 ANDALUS,Residential,400,350000
 ANDALUS,Residential,556,730000
-ANDALUS,Residential,507.5,500000
-ANDALUS,Residential,537.5,440000
+ANDALUS,Residential,5075,500000
+ANDALUS,Residential,5375,440000
 ANDALUS,Residential,375,590000
 ANDALUS,Residential,500,380000
 ANDALUS,Residential,500,490000
-Jabriya,Residential,482.5,410000
-Jabriya,Residential,757.5,500000
+Jabriya,Residential,4825,410000
+Jabriya,Residential,7575,500000
 Jabriya,Residential,400,480000
 Jabriya,Residential,390,442000
 Jabriya,Residential,640,750000
 Jabriya,Residential,500,575000
 Jabriya,Residential,464,427000
-Jabriya,Residential,487.5,"458,250"
-Jabriya,Residential,487.5,"458,250"
+Jabriya,Residential,4875,458250
+Jabriya,Residential,4875,458250
 Jabriya,Residential,500,450000
 Jabriya,Residential,400,500000
 Jabriya,Residential,500,547000
 Jabriya,Residential,1500,2350000
-Jabriya,Residential,487.5,650000
+Jabriya,Residential,4875,650000
 Jabriya,Residential,450,490000
 Jabriya,Residential,425,400000
 Jabriya,Residential,946,925000
@@ -787,10 +787,10 @@ Jabriya,Residential,507,580000
 Jabriya,Residential,400,400000
 Jabriya,Investment building,660,1950000
 Jabriya,Residential,370,480000
-Jabriya,Residential,382.5,475000
+Jabriya,Residential,3825,475000
 Jabriya,Residential,754,784000
 Jabriya,Residential,750,620000
 Jabriya,Residential,600,650000
 Jabriya,Residential,400,400000
-Jabriya,Residential,382.5,470000
+Jabriya,Residential,3825,470000
 Jabriya,Residential,756,720000
